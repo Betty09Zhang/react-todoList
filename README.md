@@ -1,3 +1,5 @@
+#入门级 react 样式以及 todoList 实现添加项和删除项  分别用 redux, react-redux 数据管理 使用中间件 thunk 实现异步函数抽离到 action 中 ,以及 redux-devtools 调试。
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
